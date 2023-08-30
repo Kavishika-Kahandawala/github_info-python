@@ -1,2 +1,3 @@
-# github_info-python
-A simple python script to get github user info
+# Github Info Get Python Script
+
+A simple python script made to get github user info
